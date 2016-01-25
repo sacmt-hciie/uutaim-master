@@ -8,7 +8,11 @@ uh Well, not much has changed, few new features, Perhaps commercially we have so
 
 # Touch works - Gestures and Collaboritave Workflows are Lacking Miserably - Let's fix this
 
-# In comes me @sacmt-hciie : Self Appointed Curator of Multiuser Touch - Human Community Information Integration Educator
+## In comes me @sacmt-hciie 
+
+## Self Appointed Curator of Multiuser Touch 
+
+## Human Community Information Integration Educator
 
 Are we going somewhere?
 
