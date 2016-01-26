@@ -16,7 +16,7 @@ uh Well, not much has changed, few new features, Perhaps commercially we have so
 
 Are we going somewhere?
 
-Calling all developers, engineers, and designers: Debian, BSD, H-linux, Darwin, Ubuntu, Linux Mint, pidora, PBXinaBox, Windows, ROSA Linux, Hanna Montana Linux, Fried Chicken Linux, whatever.
+Calling all artists, developers, engineers, and designers: Debian, BSD, H-linux, Darwin, Ubuntu, Linux Mint, pidora, PBXinaBox, Windows, ROSA Linux, Gentoo, DSL, Hanna Montana Linux, Fried Chicken Linux, whatever.
 
 From all Industries: Banking, Intelligence Gathering, Finance, IOT, Comsumer Electronic Manufacturers, Television Manufacturers, Tablet Manufacturers, Business Intelligence, Aeronautics, Industrial Controls, Automotive Integration, Software Development,  Network Operations, Foodservice, Crypto, Audio, Video, Lighting, Theater Operations. YOU NAME IT!
 
@@ -32,11 +32,18 @@ It is unification, convergence and community, building an Open Source Product - 
 
 Lets talk about how we fund the infrastructure, monitize certain aspects, and how create the infrastructre to have such the High Level multi-everything-everybody-community model that will be created through our collective efforts. It will be amazing.
 
-This will be the largest, most diverse, most complex open-source project ever attempted.
-Canonical could do it, Microsoft could do it. 
-I believe the whole community would be much happer if the energy was taken to pull resources and skillsets from across the entire open-source communtity.
+This will be the largest, most diverse, most wide-ranging open-source project ever attempted. It will touch almost every package in the repository(s). I may even change the world.
 
-I am the Poll Master, I will be creating polls and serveys, collecting data about touch and human user touch intereraction targeting both end-users, and developers will collect their own data based on that input, and ask for more. That data will be public-domain. 
+Canonical could do it, Microsoft could do it.
+I cannot "do" this project, but I can teach everybody across the infinate stack that is Desktop Computing how do use the resources of the community to work together collbaortiavely to develop this. 
+
+It will be done, but how?
+
+I believe the whole community would be much happer if the energy was taken to pull resources and skillsets from across the entire open-source communtity. And I suggest we do it this way, and let me lead, I will work laterally within the community not acting as a Manager, but rather an Educator. I understanding all of the software technologies involved. 
+
+GTK, Tk, Java, js, node.js, python, perl, php, ruby, Gnome, KDE, BITCOIN/Blockchain, LXDE, Unity 7&8, LiveCode, C++, HTML5, and , and, everything else. Everybody using the same API to work with the touch layer. Genius.
+
+I am the Poll Master, I will be creating polls and serveys, collecting data about touch and human user touch interaction targeting both end-users, and developers who will will collect their own data based on that input, and ask for more. That data will be public-domain. 
 
 We need the UI/UX and desktop devs from each and all major mainline distrobution. 
 We need to take the very best elements of User Interface Design from every GUI ever created, and incorporate that into a completly new way of using a computer. 
