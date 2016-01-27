@@ -32,7 +32,7 @@ It is unification, convergence and community, building an Open Source Product - 
 
 Lets talk about how we fund the infrastructure, monitize certain aspects, and how create the infrastructre to have such the High Level multi-everything-everybody-community model that will be created through our collective efforts. It will be amazing.
 
-This will be the largest, most diverse, most wide-ranging open-source project ever attempted. It will touch almost every package in the repository(s). I may even change the world.
+This will be the largest, most diverse, most wide-ranging open-source project ever attempted. It will touch almost every package in the repository(s). It may even change the world.
 
 Canonical could do it, Microsoft could do it.
 I cannot "do" this project, but I can teach everybody across the infinate stack that is Desktop Computing how do use the resources of the community to work together collbaortiavely to develop this. 
