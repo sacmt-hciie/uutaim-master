@@ -72,7 +72,7 @@ Hilaire F. Nollette
 17144971286
 Donate here:
 
-Paypal: paypal.me/uutaim
+Paypal: http://paypal.me/uutaim
 
 bitcoin: 1MWVQMNu5qabafd1TUTr9A5MiwCGbiyU2y creating vainty bitcoin address now
 
