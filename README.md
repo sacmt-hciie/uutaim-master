@@ -64,10 +64,16 @@ We actually have to make #LCARS work.
 We, together will create the community to create the best way to do multitouch. And I will show you how. 
 
 All the rest:
-Contact Info:
-Hilare F. Nollette 
+
+Contact Info: 
+ 
+Hilaire F. Nollette
+
 17144971286
-twitter.com/uutaim
-facebook.com/uutaim
-launchpad.net/uutaim
+
+http://twitter.com/uutaim
+
+http://facebook.com/uutaim
+
+https://launchpad.net/uutaim
 More to come
