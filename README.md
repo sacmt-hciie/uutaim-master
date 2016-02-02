@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/sacmt-hciie/uutaim-master.png?label=ready&title=Ready)](https://waffle.io/sacmt-hciie/uutaim-master)
 # uutaim-master
 # Unified User Touch Application Integration Model - API
 
